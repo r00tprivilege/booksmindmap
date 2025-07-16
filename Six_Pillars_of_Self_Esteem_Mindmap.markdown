@@ -1,0 +1,22 @@
+- **Central Idea: Foundations of Self-Esteem**
+  - **Main Branch: The Practice of Living Consciously**
+    - **Subbranch: Awareness**
+      - Staying present and attentive to reality.
+      - Avoiding denial or evasion of personal challenges.
+    - **Subbranch: Self-Observation**
+      - Regularly reflecting on thoughts and behaviors.
+      - Using introspection to align actions with values.
+  - **Main Branch: The Practice of Self-Acceptance**
+    - **Subbranch: Embracing Imperfection**
+      - Accepting flaws without self-condemnation.
+      - Recognizing personal strengths and limitations.
+    - **Subbranch: Emotional Honesty**
+      - Acknowledging and expressing true feelings.
+      - Avoiding suppression of emotions for growth.
+  - **Main Branch: The Practice of Self-Responsibility**
+    - **Subbranch: Ownership of Actions**
+      - Taking accountability for personal choices.
+      - Avoiding blame-shifting to external factors.
+    - **Subbranch: Proactive Living**
+      - Initiating action to shape one’s life.
+      - Pursuing

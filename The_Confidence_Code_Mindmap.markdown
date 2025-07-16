@@ -1,0 +1,29 @@
+- **Central Idea: Building Confidence Through Action**
+  - **Main Branch: Self-Assurance**
+    - **Subbranch: Overcoming Self-Doubt**
+      - Recognizing internal barriers like fear of failure.
+      - Reframing negative self-talk with positive affirmations.
+    - **Subbranch: Embracing Risk**
+      - Taking small, calculated risks to build resilience.
+      - Learning from setbacks as growth opportunities.
+  - **Main Branch: Communication**
+    - **Subbranch: Assertive Expression**
+      - Practicing clear and confident verbal communication.
+      - Using body language to reinforce self-belief (e.g., power poses).
+    - **Subbranch: Active Listening**
+      - Building trust and credibility through attentive listening.
+      - Responding with confidence to strengthen dialogue.
+  - **Main Branch: Decision-Making**
+    - **Subbranch: Trusting Instincts**
+      - Balancing intuition with evidence-based choices.
+      - Avoiding overthinking to boost decisiveness.
+    - **Subbranch: Action-Oriented Choices**
+      - Prioritizing action over perfectionism.
+      - Committing to decisions to enhance self-efficacy.
+  - **Main Branch: Resilience**
+    - **Subbranch: Handling Criticism**
+      - Viewing feedback as a tool for improvement.
+      - Developing a thick skin against unwarranted judgment.
+    - **Subbranch: Persistence**
+      - Staying committed despite obstacles.
+      - Celebrating incremental progress to sustain motivation.

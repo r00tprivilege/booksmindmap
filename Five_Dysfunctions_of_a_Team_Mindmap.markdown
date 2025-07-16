@@ -1,0 +1,29 @@
+- **Central Idea: Overcoming Team Dysfunctions**
+  - **Main Branch: Absence of Trust**
+    - **Subbranch: Vulnerability**
+      - Encouraging team members to admit mistakes and weaknesses.
+      - Building a safe environment for open dialogue.
+    - **Subbranch: Reliability**
+      - Demonstrating consistency and integrity in actions.
+      - Fostering mutual accountability among team members.
+  - **Main Branch: Fear of Conflict**
+    - **Subbranch: Constructive Debate**
+      - Promoting healthy, passionate discussions to uncover issues.
+      - Avoiding artificial harmony that stifles progress.
+    - **Subbranch: Conflict Resolution**
+      - Addressing disagreements directly and respectfully.
+      - Establishing norms for resolving conflicts effectively.
+  - **Main Branch: Lack of Commitment**
+    - **Subbranch: Clarity of Decisions**
+      - Ensuring team alignment on goals and plans.
+      - Seeking buy-in through clear communication.
+    - **Subbranch: Accountability for Action**
+      - Committing to decisions even amidst uncertainty.
+      - Following through on agreed-upon actions.
+  - **Main Branch: Avoidance of Accountability**
+    - **Subbranch: Peer-to-Peer Feedback**
+      - Encouraging team members to hold each other accountable.
+      - Providing constructive criticism with respect.
+    - **Subbranch: Performance Standards**
+      - Setting high expectations for individual and team performance.
+      - Addressing
