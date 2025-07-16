@@ -14,7 +14,7 @@ graph TD
 
     C --> C1[Assertive Expression]
     C1 --> C1a[Practicing clear and confident verbal communication]
-    C1 --> C1b[Using body language to reinforce self-belief (e.g., power poses)]
+    C1 --> C1b[Using body language to reinforce self-belief, e.g. power poses]
     C --> C2[Active Listening]
     C2 --> C2a[Building trust and credibility through attentive listening]
     C2 --> C2b[Responding with confidence to strengthen dialogue]
