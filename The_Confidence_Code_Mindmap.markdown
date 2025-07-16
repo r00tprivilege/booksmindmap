@@ -31,7 +31,8 @@ graph TD
     E1 --> E1b[Developing a thick skin against unwarranted judgment]
     E --> E2[Persistence]
     E2 --> E2a[Staying committed despite obstacles]
-    E2 --> E2b[Celebrating incremental progress to sustain motivation]```
+    E2 --> E2b[Celebrating incremental progress to sustain motivation]
+```
 
 - **Central Idea: Building Confidence Through Action**
   - **Main Branch: Self-Assurance**
